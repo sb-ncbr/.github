@@ -1,3 +1,0 @@
-Welcome to the website of the Structural bioinformatics research group. Our research group is affiliated with the [National Centre for Biomolecular Research](http://ncbr.muni.cz/) at the [Faculty of Science](https://www.sci.muni.cz/), [Masaryk University](https://www.muni.cz/).
-
-In our research, we focus on analysing protein structures, protein fragments, and whole protein families. Specifically, we visualise, validate, and annotate protein structures, detect protein channels and fragments, and calculate the properties of proteins. In parallel, we also develop software tools for performing these analyses. Our software is integrated into key structural bioinformatics databases such as [Protein Data Bank](https://www.ebi.ac.uk/pdbe/) and [CATH](https://www.cathdb.info/).
